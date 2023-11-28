@@ -68890,7 +68890,7 @@ A.Em.prototype={
 J(a){return A.ht("assets/intro3.png",B.aq,B.bV,null,null)}}
 A.wl.prototype={
 ag(){var s="Elevate your sewing projects with the Pairav Deluxe Electric Sewing Machine. Boasting a versatile range of built-in stitches, from straight to decorative, this user-friendly machine caters to both beginners and seasoned crafters. Automatic features like one-step buttonhole stitching and needle threading enhance efficiency, while the durable construction ensures stability and longevity. Enjoy a quiet and smooth sewing experience with its powerful motor, and take advantage of the compact design for easy storage and portability.",r="82 x 54 x 47 Centimeters",q="Included Components : ",p="Sewing Machine, Foot Stand & Table, User Manual & Warranty Card",o=t.s,n=t.N,m=t.z
-return new A.O9(A.a(["assets/assets/PAIRAV.glb","Pairav Sewing Machine","\u20b96,500","Description",s,"Specifications","Item Weight : ","20kg","Dimension : ",r,q,p],o),A.a(["assets/assets/motor.glb","Pairav Motor","\u20b91,500","Description",s,"Specifications","Item Weight : ","20kg","Dimension : ",r,q,p],o),A.a(["assets/oil.png","Pairav oil","\u20b960","Description",s,"Specifications","Item Weight : ","20kg","Dimension : ",r,q,p],o),A.a([A.aV(["name","Pairav Machine","image","assets/pairavmachine.png","rate","\u20b96,500","type","machine"],n,m),A.aV(["name","Pairav Motor","image","assets/motor.png","rate","1,500","type","motor"],n,m),A.aV(["name","Pairav Oil","image","assets/oil.png","rate","\u20b960","type","oil"],n,m)],t.H7),A.a2M(),B.k)}}
+return new A.O9(A.a(["assets/assets/PAIRAV.glb","Pairav Sewing Machine","\u20b96,500","Description",s,"Specifications","Item Weight : ","20kg","Dimension : ",r,q,p],o),A.a(["assets/assets/motor.glb","Pairav Motor","\u20b91,500","Description",s,"Specifications","Item Weight : ","20kg","Dimension : ",r,q,p],o),A.a(["assets/oil.png","Pairav oil","\u20b965/H 125/F","Description",s,"Specifications","Item Weight : ","20kg","Dimension : ",r,q,p],o),A.a([A.aV(["name","Pairav Machine","image","assets/pairavmachine.png","rate","\u20b96,500","type","machine"],n,m),A.aV(["name","Pairav Motor","image","assets/motor.png","rate","1,500","type","motor"],n,m),A.aV(["name","Pairav Oil","image","assets/oil.png","rate","\u20b965/H  \u20b9125/F","type","oil"],n,m)],t.H7),A.a2M(),B.k)}}
 A.O9.prototype={
 J(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null
 A.aK(a).fm("DESKTOP")
@@ -74362,8 +74362,8 @@ B.uD=new A.hb(4,"Whatsapp","+91 94860 40127")
 B.uE=new A.hb(2,"Phone","+91 94860 40127")
 B.uF=new A.hb(3,"Email","pairav.annai.traders@gmail.com")
 B.Ho=new A.hb("Reliability","assets/quality.png","Trusted performance, ensuring consistent and dependable sewing reliability")
-B.Hp=new A.hb(1,"Address","Shop No-97, Yadhavar south Street, Valliyur, Vadakkuvalliyur, Tamil Nadu 627117")
-B.Hq=new A.hb(1,"Address","Shop No-97, Yadhavar south Street, Valliyur, Vadakku valliyur, Tamil Nadu 627117")
+B.Hp=new A.hb(1,"Address","Shop No-101, Yadhavar south Street, Valliyur, Vadakkuvalliyur, Tamil Nadu 627117")
+B.Hq=new A.hb(1,"Address","Shop No-101, Yadhavar south Street, Valliyur, Vadakku valliyur, Tamil Nadu 627117")
 B.Hr=new A.hb("Customer Satisfaction","assets/satisfaction.png","Our customer-centric approach ensures that you receive the utmost value from your purchase.")
 B.uG=new A.C(-1e9,-1e9,1e9,1e9)
 B.dd=new A.wE(0,"identical")
