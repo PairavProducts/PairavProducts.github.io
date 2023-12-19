@@ -5,17 +5,16 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Pairav Products, Elevate your sewing experience with Pairav sewing machines, Pairav motors, and precision-formulated Pairav oils — guaranteeing excellence in every stitch.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
-    "icons": [
-        {
-            "src": "icons/android-icon-192x192",
+    "icons": [{
+            "src": "icons/android-icon-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/ms-icon-310x310",
+            "src": "icons/ms-icon-310x310.png",
             "sizes": "512x512",
             "type": "image/png"
         },
@@ -26,7 +25,7 @@
             "purpose": "maskable"
         },
         {
-            "src": "icons/ms-icon-310x310",
+            "src": "icons/ms-icon-310x310.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
