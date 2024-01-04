@@ -92,9 +92,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "66f0192af698e964001f67861ed42f64
 "icons/ms-icon-150x150.png": "25a4fb9545067ff9825bbe52809f5696",
 "icons/ms-icon-310x310.png": "244ddc0cf98037ca70ab360c695253a0",
 "icons/ms-icon-70x70.png": "46abb76f15f7d3664ca779dd122b3c7a",
-"index.html": "25620f65fe2baa4311adff063b6744c3",
-"/": "25620f65fe2baa4311adff063b6744c3",
-"main.dart.js": "e0492093dfa00beb2fc119190497c1a9",
+"index.html": "150e2f08c28cca775c7da9b562184b39",
+"/": "150e2f08c28cca775c7da9b562184b39",
+"main.dart.js": "f5b407db18f6e0ddc29fe9c1f347321d",
 "manifest.json": "e358dcb4234659dac48dd07230e22f8f",
 "version.json": "1ddaf98606d2cb7d0da08d3b70053df3",
 "web/FontManifest.json": "9ea0424096be27d86306246aebdf067d"};
