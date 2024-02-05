@@ -24806,12 +24806,12 @@ a6F:function a6F(a,b){this.a=a
 this.b=b},
 a6G:function a6G(a){this.a=a},
 vG:function vG(){},
-avo(){var s="Description",r="Specifications",q="assets/images/oil.png",p=t.EF,o=A.a([],p),n=t.s
-B.b.L(o,A.a([new A.td("Pairav Machine","assets/images/pairavmachine.png","\u20b96,500","assets/assets/model/PAIRAV.glb",s,"Transform your sewing experience with the Pairav Precision Series Sewing Machine. Seamlessly mend rips and hems without a tailor using the intuitive lever-type stitch regulator for precise control over stitching speed and easy forward/reverse movements. The auto-tripping bobbin winder ensures uniform thread coiling, enhancing accuracy and convenience. Enjoy a smooth sewing flow with the screw-type pressure controller, allowing you to adjust needle bar pressure effortlessly.",r,!0,A.a(["Item Weight : ","12 Kg","Dimension : ","33 x 45 x 32 Centimeters","Warranty : ","1 year"],n),A.a(["assets/images/motor.jpg","assets/images/tools.png",q,"assets/images/quality.png","assets/images/logo.png"],n))],p))
-B.b.L(o,A.a([new A.td("Pairav Motor","assets/images/motor.png","\u20b91,500","assets/assets/model/motor.glb",s,"the Pairav  Sewing Machine Motor\u2014a powerhouse in red and black. Featuring a robust full copper build with a 1/12 H.P heavy-duty motor, this 50-watt marvel comes complete with a convenient regulator for precise control. The 2-pin plug and long regulator wire ensure flexibility, while the package includes one belt, two extra bushings, and all essential fitting parts for a seamless sewing experience. ",r,!0,A.a(["RPM : ","6500","H.P : ","1/12","Material : ","Copper Winding"],n),A.a(["assets/images/motor1.png","assets/images/motor2.png","assets/images/motor3.png","assets/images/motor4.png"],n))],p))
-B.b.L(o,A.a([new A.td("Pairav Oil",q,"\u20b9125/\u20b965","",s,"Pairav Precision Sewing Machine Oil, a pure and clean lubricant, extends the life of your machine. With its high lubricating qualities, this non-flowing compound prevents wear and protects against rust, ensuring smooth operation. Versatile for use in fans, locks, electronics, and more, it is available in both one-liter and half-liter sizes.",r,!1,A.a(["1 litre : ","\u20b9125","1/2 litre : ","\u20b965","Container Type : ","Bottle"],n),A.a(["assets/images/oil1.png","assets/images/oil2.png","assets/images/oil3.png"],n))],p))
-A.fN(o)
-return o},
+avo(){var s="Description",r="Specifications",q=t.EF,p=A.a([],q),o=t.s
+B.b.L(p,A.a([new A.td("Pairav Machine","assets/images/pairavmachine.png","\u20b96,500","assets/assets/model/PAIRAV.glb",s,"Transform your sewing experience with the Pairav Precision Series Sewing Machine. Seamlessly mend rips and hems without a tailor using the intuitive lever-type stitch regulator for precise control over stitching speed and easy forward/reverse movements. The auto-tripping bobbin winder ensures uniform thread coiling, enhancing accuracy and convenience. Enjoy a smooth sewing flow with the screw-type pressure controller, allowing you to adjust needle bar pressure effortlessly.",r,!0,A.a(["Item Weight : ","12 Kg","Dimension : ","33 x 45 x 32 Centimeters","Warranty : ","1 year"],o),A.a(["assets/images/machine2.png","assets/images/machine3.png","assets/images/machine1.png","assets/images/machine4.png","assets/images/machine5.png","assets/images/machine6.png"],o))],q))
+B.b.L(p,A.a([new A.td("Pairav Motor","assets/images/motor.png","\u20b91,500","assets/assets/model/motor.glb",s,"the Pairav  Sewing Machine Motor\u2014a powerhouse in red and black. Featuring a robust full copper build with a 1/12 H.P heavy-duty motor, this 50-watt marvel comes complete with a convenient regulator for precise control. The 2-pin plug and long regulator wire ensure flexibility, while the package includes one belt, two extra bushings, and all essential fitting parts for a seamless sewing experience. ",r,!0,A.a(["RPM : ","6500","H.P : ","1/12","Material : ","Copper Winding"],o),A.a(["assets/images/motor1.png","assets/images/motor2.png","assets/images/motor3.png","assets/images/motor4.png"],o))],q))
+B.b.L(p,A.a([new A.td("Pairav Oil","assets/images/oil.png","\u20b9125/\u20b965","",s,"Pairav Precision Sewing Machine Oil, a pure and clean lubricant, extends the life of your machine. With its high lubricating qualities, this non-flowing compound prevents wear and protects against rust, ensuring smooth operation. Versatile for use in fans, locks, electronics, and more, it is available in both one-liter and half-liter sizes.",r,!1,A.a(["1 litre : ","\u20b9125","1/2 litre : ","\u20b965","Container Type : ","Bottle"],o),A.a(["assets/images/oil1.png","assets/images/oil2.png","assets/images/oil3.png"],o))],q))
+A.fN(p)
+return p},
 td:function td(a,b,c,d,e,f,g,h,i,j){var _=this
 _.a=a
 _.b=b
@@ -81348,7 +81348,7 @@ $0(){this.a.d=!1},
 $S:0}
 A.xJ.prototype={}
 A.KA.prototype={
-H(a){return new A.yE(A.aO(["/",new A.a71(),"/home",new A.a72()],t.N,t.Ab),new A.a73(),"Pairav Products",A.Bl(null,!0),!1,null)}}
+H(a){return new A.yE(A.aO(["/",new A.a71(),"/home",new A.a72()],t.N,t.Ab),new A.a73(),"Pairav",A.Bl(null,!0),!1,null)}}
 A.a71.prototype={
 $1(a){return new A.pJ(null)},
 $S:504}
